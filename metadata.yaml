@@ -1,0 +1,27 @@
+_repo: The-Rt.-Hon.-John-Bright-M.P.--Cartoons-from-the-Collection-of--Mr.-Punch-_44539
+_version: 0.1.0
+alternative_title: The Right Hon. John Bright. Cartoons from "Punch"
+covers:
+- cover_type: archival
+  image_path: 44539-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2013-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bright, John, 1811-1889'
+- !lcsh 'Caricatures and cartoons -- Great Britain'
+- !lcc 'DA'
+title: "The Rt. Hon. John Bright M.P.\r\nCartoons from the Collection of \"Mr. Punch\""
+url: http://www.gutenberg.org/ebooks/44539
